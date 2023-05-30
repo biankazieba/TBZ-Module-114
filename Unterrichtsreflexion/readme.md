@@ -1,1 +1,1 @@
-[An Internal Link](./Tag1.md)
+[Tag 1](./Tag1.md)
